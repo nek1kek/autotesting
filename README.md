@@ -1,5 +1,5 @@
 # Автотесты для Selenium на языке Python сайта Home.Mephi.ru
-К нашему большому счастью сайт решил долго жить, потому стоит использовать VPN:
+Используйте VPN:
 <p> <a href="https://it.mephi.ru/vpn" target="_blank">Ссылка на VPN</a></p>
 
 
